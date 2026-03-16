@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Yuval_Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "vistaraSMP-ORfQ.aternos.me:53097",
+    "ip": "vistaraSMP-ORfQ.aternos.me",
     "port": 53097,
     "version": "",
     "try-creative": false

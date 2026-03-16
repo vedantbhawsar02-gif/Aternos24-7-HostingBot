@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "vistaraSMP-ORfQ.aternos.me:53097",
+    "port": 53097,
     "version": "",
     "try-creative": false
   },
